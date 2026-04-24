@@ -24,4 +24,4 @@ Scikit-learn
 
 ## Objective
 
-To understand how raw datasets are cleaned, transformed, and prepared before applying machine learning models.
+To understand how raw datasets are cleaned, transformed, and prepared before applying machine learning models
